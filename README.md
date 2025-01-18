@@ -1,1 +1,1 @@
-# ecommerce-vuejs
+# E-commerce VueJs
